@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Aqsa Waheed</h1>
 <h3 align="center">I'm Aqsa Waheed, dedicated graduated Software Engineering from Sarhad University Of Science & Information Technology with hardworking did Internship From Rapidev Nstp Nust Islamabad as "PYTHON INTERN".</h3>
-<img align="right" alt="Coding" width="400" src="[https://th.bing.com/th/id/R.f0fef1eb96e50c4820eee35462a62ab2?rik=OL8TvqhmzhIhrg&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0)")
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8d621f66f551b6a39072473d52280ff0?rik=pxe6U%2fxnjrV9eQ&pid=ImgRaw&r=0")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsawaheedgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aqsawaheedgithub" /> </p>
 
 - 🔭 Skills i have adapted during Graduation Journey:
--     C++
--     Mobile application & dev
--     oop
+- C++
+- Mobile application & dev
+- oop
 
 - ✨ Skills I have achieved as a Python Intern:
--     Python
--     Web Scraping
--     Automation
--     Crawling
+- Python
+- Web Scraping
+- Automation
+- Crawling
 
 - 📚 I’m currently learning
--    Flask
--    SQL
+- Flask
+- SQL
 
 - 📫 How to reach me **aqsawaheed02@gmail.com**
 
