@@ -5,9 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsawaheedgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aqsawaheedgithub" /> </p>
 
-- 🔭 Skills i have adapted during Graduation Journey: **C++, Android studio, oop**
+- 🔭 Skills i have adapted during Graduation Journey:
+-     **C++**
+-     **Mobile application & dev**
+-     **oop**
 
-- ✨ Skills I have achieved as a Python Intern: **Python, Web Scraping, Automation, Crawling**
+- ✨ Skills I have achieved as a Python Intern:
+-     **Python**
+-     **Web Scraping**
+-     **Automation**
+-     **Crawling**
 
 - 📚 I’m currently learning **Flask, SQL.**
 
