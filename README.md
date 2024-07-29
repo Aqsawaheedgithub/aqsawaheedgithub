@@ -17,8 +17,8 @@
 - Crawling
 
 - 📚 I’m currently learning
-- Flask
-- SQL
+- Full Stack Dev
+- Mern Stack Dev --> Html, CSS, JS
 
 - 📫 How to reach me **aqsawaheed02@gmail.com**
 
