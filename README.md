@@ -14,11 +14,11 @@
 - Python
 - Web Scraping
 - Automation
-- Crawling
+- Next js
 
 - 📚 I’m currently learning
 - Full Stack Dev
-- Mern Stack Dev --> Html, CSS, JS
+- Mern Stack Dev 
 
 - 📫 How to reach me **aqsawaheed02@gmail.com**
 
